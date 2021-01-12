@@ -22,7 +22,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/like.js",
         "globalName" : "YTD.like.part0",
-        "count" : "13935"
+        "count" : "14625"
       } ]
     },
     "profile" : {
@@ -41,7 +41,7 @@ window.__THAR_CONFIG = {
       "files" : [ {
         "fileName" : "data/tweet.js",
         "globalName" : "YTD.tweet.part0",
-        "count" : "10360"
+        "count" : "11474"
       } ]
     },
     "tweetMedia" : {
